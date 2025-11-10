@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="7" revision="1" build="3"/>
+    <version major="4" minor="8" revision="0" build="500"/>
     <region id="CharacterCreationMaterialOverrides">
         <node id="root">
             <children>
@@ -9,7 +9,7 @@
                     <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
                     <attribute id="MaterialType" type="FixedString" value="Passive"/>
                     <attribute id="Name" type="FixedString" value="DGB_M_NKD_Head_E_EL_Top_Reforged_C"/>
-                    <attribute id="SourceMaterialUUID" type="FixedString" value="DGB_M_NKD_Head_E_EL_Top_Reforged_C_fca78731-cd04-2cbf-38d3-b0c2ee7f035e"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="fca78731-cd04-2cbf-38d3-b0c2ee7f035e"/>
                     <attribute id="TargetMaterialUUID" type="FixedString" value="76b8563d-57f4-3221-1775-08d86ffbbfc9"/>
                     <attribute id="UUID" type="guid" value="e27ffe9d-548f-4747-a56b-423b5805d6a4"/>
                 </node>
@@ -21,6 +21,24 @@
                     <attribute id="SourceMaterialUUID" type="FixedString" value="c09510c1-c03e-00dc-9e05-ded477e44254"/>
                     <attribute id="TargetMaterialUUID" type="FixedString" value="69c1a5b5-693a-241c-3513-3d8aece645e2"/>
                     <attribute id="UUID" type="guid" value="a2f80d7a-65b8-4dc5-bda0-e7461f9fcd01"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_F_NKD_Tail_A_EL_Reforged_Broken"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="65c5e15c-364b-f098-600c-c9209cb3c3d8"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="09c537e0-8977-66c1-8dbf-f1e398dd7964"/>
+                    <attribute id="UUID" type="guid" value="804a207f-7aa8-4880-b3e3-50749af05da4"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_M_NKD_Tail_A_EL_Reforged_Broken"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="750df34c-e394-1e07-06b6-4844ca9fd3b4"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="c4290ffa-88f5-a05d-4aec-c3fd76010e85"/>
+                    <attribute id="UUID" type="guid" value="2543f1c4-8066-4b45-8612-2d0772ae0864"/>
                 </node>
             </children>
         </node>

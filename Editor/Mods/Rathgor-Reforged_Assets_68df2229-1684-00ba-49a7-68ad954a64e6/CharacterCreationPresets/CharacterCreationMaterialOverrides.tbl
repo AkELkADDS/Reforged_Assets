@@ -9,7 +9,7 @@
         <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
         <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
         <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
-        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="DGB_M_NKD_Head_E_EL_Top_Reforged_C_fca78731-cd04-2cbf-38d3-b0c2ee7f035e" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="fca78731-cd04-2cbf-38d3-b0c2ee7f035e" />
         <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="76b8563d-57f4-3221-1775-08d86ffbbfc9" />
       </fields>
     </stat_object>
@@ -23,6 +23,30 @@
         <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
         <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="c09510c1-c03e-00dc-9e05-ded477e44254" />
         <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="69c1a5b5-693a-241c-3513-3d8aece645e2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="804a207f-7aa8-4880-b3e3-50749af05da4" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_F_NKD_Tail_A_EL_Reforged_Broken" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="65c5e15c-364b-f098-600c-c9209cb3c3d8" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="09c537e0-8977-66c1-8dbf-f1e398dd7964" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2543f1c4-8066-4b45-8612-2d0772ae0864" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="DGB_M_NKD_Tail_A_EL_Reforged_Broken" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Passive" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="ActiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a" />
+        <field name="InactiveMaterialPresetUUID" type="GuidTableFieldDefinition" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96" />
+        <field name="SourceMaterialUUID" type="FixedStringTableFieldDefinition" value="750df34c-e394-1e07-06b6-4844ca9fd3b4" />
+        <field name="TargetMaterialUUID" type="FixedStringTableFieldDefinition" value="c4290ffa-88f5-a05d-4aec-c3fd76010e85" />
       </fields>
     </stat_object>
   </stat_objects>
