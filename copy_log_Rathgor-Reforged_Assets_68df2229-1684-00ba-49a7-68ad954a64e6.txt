@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6 
-   Wed 12/10/2025  0:10:13.94 
+   Tue 03/17/2026 23:57:09.85 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -322,7 +322,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, December 10, 2025 12:10:17 AM
+  Started : Tuesday, March 17, 2026 11:57:13 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Projects\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\
 
@@ -342,11 +342,7 @@ SECTION 2: COPY OPERATIONS
    Files :         2         2         0         0         0         0
    Bytes :   618.6 k   618.6 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-
-
-   Speed :           633482000 Bytes/sec.
-   Speed :           36248.130 MegaBytes/min.
-   Ended : Wednesday, December 10, 2025 12:10:17 AM
+   Ended : Tuesday, March 17, 2026 11:57:13 PM
 
  
 [DEBUG] Counting source files 
@@ -372,7 +368,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, December 10, 2025 12:10:19 AM
+  Started : Tuesday, March 17, 2026 11:57:15 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Editor\Mods\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\
 
@@ -396,7 +392,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :            86359000 Bytes/sec.
    Speed :            4941.501 MegaBytes/min.
-   Ended : Wednesday, December 10, 2025 12:10:19 AM
+   Ended : Tuesday, March 17, 2026 11:57:15 PM
 
  
 [DEBUG] Counting source files 
@@ -422,7 +418,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, December 10, 2025 12:10:21 AM
+  Started : Tuesday, March 17, 2026 11:57:16 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Mods\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\
 
@@ -446,9 +442,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           644615000 Bytes/sec.
-   Speed :           36885.166 MegaBytes/min.
-   Ended : Wednesday, December 10, 2025 12:10:21 AM
+   Speed :           322307500 Bytes/sec.
+   Speed :           18442.583 MegaBytes/min.
+   Ended : Tuesday, March 17, 2026 11:57:16 PM
 
  
 [DEBUG] Counting source files 
@@ -474,7 +470,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, December 10, 2025 12:10:23 AM
+  Started : Tuesday, March 17, 2026 11:57:19 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\
 
@@ -599,7 +595,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2996	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Content\[PAK]_Rathgor-Reforged_Assets\fd4a1cf1-363d-4e8b-8402-41a9d16a484c.lsf100%  
 	    New File  		    1698	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Content\[PAK]_Rathgor-Reforged_Assets\fed2ca9d-cd21-cf84-3b64-030853bfc072.lsf100%  
 	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\Textures\Icons\SlayerA_1_Atlas.dds100%  
-	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Female\Textures\Tail\DGB_F_Tail_C_EL_Reforged\DGB_F_NKD_Tail_A_EL_Reforged_B_CTLO.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Female\Textures\Tail\DGB_F_Tail_C_EL_Reforged\DGB_F_NKD_Tail_A_EL_Reforged_B_CTLO.DDS 84%  100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Female\Textures\Tail\DGB_F_Tail_C_EL_Reforged\DGB_F_NKD_Tail_A_EL_Reforged_B_DMSK.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Female\Textures\Tail\DGB_F_Tail_C_EL_Reforged\DGB_F_NKD_Tail_A_EL_Reforged_B_HMVY.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Female\Textures\Tail\DGB_F_Tail_C_EL_Reforged\DGB_F_NKD_Tail_A_EL_Reforged_B_MSK.DDS100%  
@@ -608,11 +604,11 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  699192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Accessories\Metal\Metal_Details_EL_Tail_Reforged_B_L_BC.DDS100%  
 	    New File  		  699192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Accessories\Metal\Metal_Details_EL_Tail_Reforged_B_L_PM.DDS100%  
 	    New File  		     312	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Accessories\Metal\Metal_Details_EL_Tail_Reforged_B_MSK.DDS100%  
-	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Accessories\Metal\Metal_Details_EL_Tail_Reforged_B_NM.DDS100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Accessories\Metal\Metal_Details_EL_Tail_Reforged_B_NM.DDS 56%  100%  
 	    New File  		  699192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Accessories\Metal\Metal_Details_EL_Tail_Reforged_B_PM.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Accessories\Metal\Metal_Details_EL_Top_Reforged_B_BC.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Accessories\Metal\Metal_Details_EL_Top_Reforged_B_L_BC.DDS100%  
-	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Accessories\Metal\Metal_Details_EL_Top_Reforged_B_L_PM.DDS 93%  100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Accessories\Metal\Metal_Details_EL_Top_Reforged_B_L_PM.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Accessories\Metal\Metal_Details_EL_Top_Reforged_B_NM.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Accessories\Metal\Metal_Details_EL_Top_Reforged_B_PM.DDS100%  
 	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Chin\DGB_M_Chin_E_EL_Reforged\DGB_M_NKD_Head_C_EL_Chin_MC_CTLO.DDS100%  
@@ -621,13 +617,13 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Chin\DGB_M_Chin_E_EL_Reforged\DGB_M_NKD_Head_C_EL_Chin_MC_MSK.DDS100%  
 	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Chin\DGB_M_Chin_E_EL_Reforged\DGB_M_NKD_Head_C_EL_Chin_MC_NM.DDS100%  
 	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_B_L_CTLO.DDS100%  
-	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_B_L_DB_DMSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_B_L_DB_DMSK.DDS 84%  100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_B_L_DMSK.DDS100%  
 	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_B_L_HMVY.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_B_L_MSK.DDS100%  
 	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_B_L_NM.DDS100%  
 	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_C_CTLO.DDS100%  
-	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_C_DB_DMSK.DDS 56%  100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_C_DB_DMSK.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_C_DMSK.DDS100%  
 	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_C_HMVY.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\CrestTop\DGB_M_Top_E_EL_MD_Reforged\DGB_M_NKD_Head_E_EL_Top_Reforged_C_MSK.DDS100%  
@@ -635,9 +631,9 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_B_CTLO.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_B_DB_DMSK.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_B_DMSK.DDS100%  
-	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_B_HMVY.DDS 93%  100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_B_HMVY.DDS 28%   84%  100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_B_MSK.DDS100%  
-	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_B_NM.DDS 65%  100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Assets\_Male\Textures\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_B_NM.DDS 75%  100%  
 	    New File  		  188452	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Body\_Male\Tail\DGB_M_NKD_Tail_A_EL_Reforged_Broken.GR2100%  
 	    New File  		  188720	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Body\_Male\Tail\DGB_M_NKD_Tail_A_EL_Reforged_Broken_2.GR2100%  
 	    New File  		  105388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Body\_Male\Tail\DGB_M_NKD_Tail_A_EL_Reforged_Clean.GR2100%  
@@ -674,8 +670,8 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   93528	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_E\Chin\DGB_F_Chin_E_EL_Reforged\DGB_F_NKD_Head_E_EL_Chin_MC.GR2100%  
 	    New File  		     234	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_E\Chin\DGB_F_Chin_E_EL_Reforged\DGB_F_NKD_Head_E_EL_Chin_MC.xml100%  
 	    New File  		  627892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_E\CrestTop\DGB_F_Top_E_EL_MD_Reforged\DGB_F_NKD_Head_E_EL_Top_Reforged_Broken_L.GR2100%  
-	    New File  		     254	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_E\CrestTop\DGB_F_Top_E_EL_MD_Reforged\DGB_F_NKD_Head_E_EL_Top_Reforged_Broken_L.xml100%  
-	    New File  		  627892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_E\CrestTop\DGB_F_Top_E_EL_MD_Reforged\DGB_F_NKD_Head_E_EL_Top_Reforged_Broken_R.GR2 41%  100%  
+	    New File  		     254	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_E\CrestTop\DGB_F_Top_E_EL_MD_Reforged\DGB_F_NKD_Head_E_EL_Top_Reforged_Broken_L.xml  0%  100%  
+	    New File  		  627892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_E\CrestTop\DGB_F_Top_E_EL_MD_Reforged\DGB_F_NKD_Head_E_EL_Top_Reforged_Broken_R.GR2100%  
 	    New File  		     254	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_E\CrestTop\DGB_F_Top_E_EL_MD_Reforged\DGB_F_NKD_Head_E_EL_Top_Reforged_Broken_R.xml100%  
 	    New File  		  426488	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_E\CrestTop\DGB_F_Top_E_EL_MD_Reforged\DGB_F_NKD_Head_E_EL_Top_Reforged_Clean.GR2100%  
 	    New File  		     251	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_E\CrestTop\DGB_F_Top_E_EL_MD_Reforged\DGB_F_NKD_Head_E_EL_Top_Reforged_Clean.xml100%  
@@ -695,7 +691,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     232	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_F\Chin\DGB_M_Chin_F_EL_Reforged\DGB_M_NKD_Head_F_EL_Chin_MC.xml100%  
 	    New File  		  627892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_F\CrestTop\DGB_M_Top_F_EL_MD_Reforged\DGB_M_NKD_Head_F_EL_Top_Reforged_Broken_L.GR2100%  
 	    New File  		     252	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_F\CrestTop\DGB_M_Top_F_EL_MD_Reforged\DGB_M_NKD_Head_F_EL_Top_Reforged_Broken_L.xml100%  
-	    New File  		  627892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_F\CrestTop\DGB_M_Top_F_EL_MD_Reforged\DGB_M_NKD_Head_F_EL_Top_Reforged_Broken_R.GR2100%  
+	    New File  		  627892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_F\CrestTop\DGB_M_Top_F_EL_MD_Reforged\DGB_M_NKD_Head_F_EL_Top_Reforged_Broken_R.GR2 83%  100%  
 	    New File  		     252	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_F\CrestTop\DGB_M_Top_F_EL_MD_Reforged\DGB_M_NKD_Head_F_EL_Top_Reforged_Broken_R.xml100%  
 	    New File  		  426488	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_F\CrestTop\DGB_M_Top_F_EL_MD_Reforged\DGB_M_NKD_Head_F_EL_Top_Reforged_Clean.GR2100%  
 	    New File  		     249	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_F\CrestTop\DGB_M_Top_F_EL_MD_Reforged\DGB_M_NKD_Head_F_EL_Top_Reforged_Clean.xml100%  
@@ -715,12 +711,12 @@ SECTION 2: COPY OPERATIONS
     Dirs :        83        83         1         0         0         0
    Files :       224       224         0         0         0         0
    Bytes :  194.64 m  194.64 m         0         0         0         0
-   Times :   0:00:06   0:00:00                       0:00:00   0:00:00
+   Times :   0:00:08   0:00:01                       0:00:00   0:00:00
 
 
-   Speed :           206997374 Bytes/sec.
-   Speed :           11844.484 MegaBytes/min.
-   Ended : Wednesday, December 10, 2025 12:10:25 AM
+   Speed :           143127216 Bytes/sec.
+   Speed :            8189.805 MegaBytes/min.
+   Ended : Tuesday, March 17, 2026 11:57:21 PM
 
  
 [DEBUG] Counting source files 
@@ -746,7 +742,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Wednesday, December 10, 2025 12:10:27 AM
+  Started : Tuesday, March 17, 2026 11:57:22 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\
 
@@ -762,31 +758,31 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  188452	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Body\_Male\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_Broken.GR2100%  
 	    New File  		  188720	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Body\_Male\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_Broken_2.GR2100%  
 	    New File  		  105388	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Body\_Male\Tail\DGB_M_Tail_C_EL_Reforged\DGB_M_NKD_Tail_A_EL_Reforged_Clean.GR2100%  
-	    New File  		   93272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_E\Chin\DGB_M_NKD_Head_E_EL_Chin_MC.GR2100%  
 	    New File  		  628000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_E\CrestTop\DGB_M_NKD_Head_E_EL_Top_Reforged_Broken_L.GR2100%  
 	    New File  		  627428	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_E\CrestTop\DGB_M_NKD_Head_E_EL_Top_Reforged_Broken_R.GR2100%  
 	    New File  		  426492	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_E\CrestTop\DGB_M_NKD_Head_E_EL_Top_Reforged_Clean.GR2100%  
+	    New File  		   93272	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_E\Chin\DGB_M_NKD_Head_E_EL_Chin_MC.GR2100%  
 	    New File  		   93528	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_B\Chin\DGB_F_Chin_B_EL_Reforged\DGB_F_NKD_Head_B_EL_Chin_MC.GR2100%  
 	    New File  		  622460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_B\CrestTop\DGB_F_Top_B_EL_MD_Reforged\DGB_F_NKD_Head_B_EL_Top_Reforged_Broken_L.GR2100%  
 	    New File  		  622404	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_B\CrestTop\DGB_F_Top_B_EL_MD_Reforged\DGB_F_NKD_Head_B_EL_Top_Reforged_Broken_R.GR2100%  
 	    New File  		  421220	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_B\CrestTop\DGB_F_Top_B_EL_MD_Reforged\DGB_F_NKD_Head_B_EL_Top_Reforged_Clean.GR2100%  
-	    New File  		   93400	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_D\Chin\DGB_M_Chin_D_EL_Reforged\DGB_M_NKD_Head_D_EL_Chin_MC.GR2100%  
-	    New File  		  628396	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_D\CrestTop\DGB_M_Top_D_EL_MD_Reforged\DGB_M_NKD_Head_D_EL_Top_Reforged_Broken_L.GR2100%  
-	    New File  		  628276	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_D\CrestTop\DGB_M_Top_D_EL_MD_Reforged\DGB_M_NKD_Head_D_EL_Top_Reforged_Broken_R.GR2100%  
-	    New File  		  427160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_D\CrestTop\DGB_M_Top_D_EL_MD_Reforged\DGB_M_NKD_Head_D_EL_Top_Reforged_Clean.GR2100%  
-	    New File  		   87868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_C\Chin\DGB_F_Chin_C_EL_Reforged\DGB_F_NKD_Head_C_EL_Chin_MC.GR2100%  
 	    New File  		  623008	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_C\CrestTop\DGB_F_Top_C_EL_MD_Reforged\DGB_F_NKD_Head_C_EL_Top_Reforged_Broken_L.GR2100%  
 	    New File  		  623020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_C\CrestTop\DGB_F_Top_C_EL_MD_Reforged\DGB_F_NKD_Head_C_EL_Top_Reforged_Broken_R.GR2100%  
 	    New File  		  420828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_C\CrestTop\DGB_F_Top_C_EL_MD_Reforged\DGB_F_NKD_Head_C_EL_Top_Reforged_Clean.GR2100%  
+	    New File  		   87868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_C\Chin\DGB_F_Chin_C_EL_Reforged\DGB_F_NKD_Head_C_EL_Chin_MC.GR2100%  
 	    New File  		   93528	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_D\Chin\DGB_F_Chin_D_EL_Reforged\DGB_F_NKD_Head_D_EL_Chin_MC.GR2100%  
 	    New File  		  627724	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_D\CrestTop\DGB_F_Top_D_EL_MD_Reforged\DGB_F_NKD_Head_D_EL_Top_Reforged_Broken_L.GR2100%  
 	    New File  		  627828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_D\CrestTop\DGB_F_Top_D_EL_MD_Reforged\DGB_F_NKD_Head_D_EL_Top_Reforged_Broken_R.GR2100%  
 	    New File  		  426768	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_D\CrestTop\DGB_F_Top_D_EL_MD_Reforged\DGB_F_NKD_Head_D_EL_Top_Reforged_Clean.GR2100%  
-	    New File  		   93400	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_F\Chin\DGB_M_Chin_F_EL_Reforged\DGB_M_NKD_Head_F_EL_Chin_MC.GR2100%  
+	    New File  		  628396	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_D\CrestTop\DGB_M_Top_D_EL_MD_Reforged\DGB_M_NKD_Head_D_EL_Top_Reforged_Broken_L.GR2100%  
+	    New File  		  628276	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_D\CrestTop\DGB_M_Top_D_EL_MD_Reforged\DGB_M_NKD_Head_D_EL_Top_Reforged_Broken_R.GR2100%  
+	    New File  		  427160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_D\CrestTop\DGB_M_Top_D_EL_MD_Reforged\DGB_M_NKD_Head_D_EL_Top_Reforged_Clean.GR2100%  
+	    New File  		   93400	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_D\Chin\DGB_M_Chin_D_EL_Reforged\DGB_M_NKD_Head_D_EL_Chin_MC.GR2100%  
 	    New File  		   93528	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_E\Chin\DGB_F_Chin_E_EL_Reforged\DGB_F_NKD_Head_E_EL_Chin_MC.GR2100%  
 	    New File  		  627780	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_E\CrestTop\DGB_F_Top_E_EL_MD_Reforged\DGB_F_NKD_Head_E_EL_Top_Reforged_Broken_L.GR2100%  
 	    New File  		  627772	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_E\CrestTop\DGB_F_Top_E_EL_MD_Reforged\DGB_F_NKD_Head_E_EL_Top_Reforged_Broken_R.GR2100%  
 	    New File  		  426656	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Female\Head_E\CrestTop\DGB_F_Top_E_EL_MD_Reforged\DGB_F_NKD_Head_E_EL_Top_Reforged_Clean.GR2100%  
+	    New File  		   93400	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_F\Chin\DGB_M_Chin_F_EL_Reforged\DGB_M_NKD_Head_F_EL_Chin_MC.GR2100%  
 	    New File  		  628284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_F\CrestTop\DGB_M_Top_F_EL_MD_Reforged\DGB_M_NKD_Head_F_EL_Top_Reforged_Broken_L.GR2100%  
 	    New File  		  628284	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_F\CrestTop\DGB_M_Top_F_EL_MD_Reforged\DGB_M_NKD_Head_F_EL_Top_Reforged_Broken_R.GR2100%  
 	    New File  		  426600	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_68df2229-1684-00ba-49a7-68ad954a64e6\AkELkA Mods_Rathgor_Reforged_Head\Assets\Mesh\Head\_Male\Head_F\CrestTop\DGB_M_Top_F_EL_MD_Reforged\DGB_M_NKD_Head_F_EL_Top_Reforged_Clean.GR2100%  
@@ -804,9 +800,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           118309343 Bytes/sec.
-   Speed :            6769.714 MegaBytes/min.
-   Ended : Wednesday, December 10, 2025 12:10:27 AM
+   Speed :            95845544 Bytes/sec.
+   Speed :            5484.326 MegaBytes/min.
+   Ended : Tuesday, March 17, 2026 11:57:23 PM
 
  
 [DEBUG] Counting source files 
